@@ -1,0 +1,28 @@
+* {
+  border-radius: 0 !important;
+}
+
+.fw-bold {
+  text-transform: uppercase;
+}
+
+.card-text {
+  color: black !important;
+}
+
+.card-title {
+  color: black !important;
+}
+
+.square {
+  height: 150px;
+  width: 150px;
+}
+
+.btn {
+  border-radius: 10 !important;
+}
+
+.h5 {
+  font-weight: bold;
+}
